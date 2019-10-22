@@ -1,2 +1,2 @@
 # TransportDesicionTree
-A simple implementation of a decision tree in CLIPS
+An implementation of a simple decision tree in CLIPS
